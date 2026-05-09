@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "AvityApp",
+    "slug": "avityapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.avity.avityapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e075ce44-614e-48a2-9b88-81cce5e9c9fe"
+      }
+    },
+    "plugins": [
+      "@maplibre/maplibre-react-native"
+    ]
+  }
+}
